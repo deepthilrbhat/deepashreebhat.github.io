@@ -342,7 +342,7 @@ export const footer = [
       },
       {
         text: "GitHub",
-        link: "https://github.com/deepashreebhat/deepashreebhat.github.io",
+        link: "https://github.com/deepthilrbhat/deepthilrbhat.github.io",
         fontAwesomeIcon: "fab fa-github", // Reference https://fontawesome.com/icons/github?style=brands
         backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
       },
